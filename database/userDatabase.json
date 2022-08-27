@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Noa Andersson",
+        "Email": "nooaanderssondator@gmail.com",
+        "GDPR": true,
+        "Birdate": "10/08/2022",
+        "Gender": "Female",
+        "class": "U1A",
+        "password": "123123123"
+    },
+    {
+        "Name": "Nox",
+        "Email": "isaandersson1@student.liu.se",
+        "GDPR": true,
+        "Birdate": "02/08/2022",
+        "Gender": "Male",
+        "class": "U1A",
+        "password": "81dc9bdb52d04dc20036dbd8313ed055"
+    }
+]
