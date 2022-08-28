@@ -7,6 +7,13 @@ var socket = io("/User/" + id)
 
 socket.on("PlayerData", (data) => {
     console.log(data)
+    document.getElementById("levelsYear1").innerHTML = ""
+    document.getElementById("levelsYear2").innerHTML = ""
+    document.getElementById("levelsYear3").innerHTML = ""
+    document.getElementById("levelsYear4").innerHTML = ""
+    document.getElementById("levelsYear5").innerHTML = ""
+
+    
     for (var i = 0; i < Object.keys(data.Game).length; i++) {
         
         var div = document.createElement("div")
