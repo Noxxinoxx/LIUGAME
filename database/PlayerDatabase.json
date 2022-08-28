@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Nox",
+        "email": "nox@student.liu.se",
+        "Game": {
+            "Team 0": true,
+            "Team 1": true,
+            "Team 2": false,
+            "Team 3": false,
+            "Team 4": false,
+            "Team 5": false,
+            "Team 6": false,
+            "Team 7": false,
+            "Team 8": false,
+            "Team 9": false,
+            "Team 10": false,
+            "Team 11": false
+        },
+        "LevelName": [
+            "Team 0",
+            "Team 1",
+            "Team 2",
+            "Team 3",
+            "Team 4",
+            "Team 5",
+            "Team 6",
+            "Team 7",
+            "Team 8",
+            "Team 9",
+            "Team 10",
+            "Team 11"
+        ],
+        "imageName" : [
+            
+            "levelT",
+            "level1",
+            "level2",
+            "level3",
+            "level4",
+            "level5",
+            "level6",
+            "level7",
+            "level8",
+            "level9",
+            "level10",
+            "level11"
+        
+        ]
+    }
+]
