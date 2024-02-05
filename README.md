@@ -18,7 +18,7 @@ The University Timeline Game is an interactive adventure that simulates the univ
 1. **Installation**: Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/university-timeline-game.git
+   git clone https://github.com/Noxxinoxx/LIUGAME
    ```
 
 2. **Setup**: Configure the game settings, levels, and unlockable content according to your preferences.
